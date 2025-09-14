@@ -1,0 +1,14 @@
+{
+  "name": "Movie Name",
+  "year": "2025",
+  "language": "English",
+  "cast": [
+    "Actor One",
+    "Actor Two",
+    "Actor Three"
+  ],
+  "imageUrl": "https://example.com/image.jpg",
+  "videoUrl": "https://example.com/video.mp4",
+  "appTitle": "My Movie App",
+  "aboutApp": "This app allows users to watch movies, explore cast details, and enjoy high-quality trailers."
+}
